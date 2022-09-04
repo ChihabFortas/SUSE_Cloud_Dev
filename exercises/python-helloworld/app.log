@@ -1,0 +1,11 @@
+06/18/2021 03:13:24 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+06/18/2021 03:13:35 PM 127.0.0.1 - - [18/Jun/2021 15:13:35] "GET / HTTP/1.1" 200 -
+06/18/2021 03:13:46 PM /status endpoint was reached
+06/18/2021 03:13:46 PM 127.0.0.1 - - [18/Jun/2021 15:13:46] "GET /status HTTP/1.1" 200 -
+06/18/2021 03:14:01 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+06/18/2021 03:14:04 PM /status endpoint was reached
+06/18/2021 03:14:04 PM 127.0.0.1 - - [18/Jun/2021 15:14:04] "GET /status HTTP/1.1" 200 -
+06/18/2021 03:15:48 PM  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+06/18/2021 03:16:10 PM 127.0.0.1 - - [18/Jun/2021 15:16:10] "GET / HTTP/1.1" 200 -
+06/18/2021 03:16:18 PM /status endpoint was reached
+06/18/2021 03:16:18 PM 127.0.0.1 - - [18/Jun/2021 15:16:18] "GET /status HTTP/1.1" 200 -
